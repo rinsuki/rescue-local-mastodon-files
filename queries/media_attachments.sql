@@ -1,0 +1,1 @@
+SELECT id, file_file_name, file_content_type FROM media_attachments WHERE remote_url = '' ORDER BY id ASC

@@ -1,0 +1,1 @@
+SELECT id, image_file_name, image_content_type FROM custom_emojis WHERE domain IS NULL ORDER BY id ASC

@@ -1,0 +1,1 @@
+SELECT id, avatar_file_name FROM accounts WHERE avatar_file_name IS NOT NULL AND id > 0 AND domain IS NULL
